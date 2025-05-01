@@ -41,6 +41,12 @@ Welcome to my GitHub portfolio! I am a Microsoft Certified Trainer, Cloud Soluti
 | [Monitoring Stack](https://github.com/G-devops-cp/devops-monitoring-stack) | Centralized logging and monitoring setup. | Prometheus, Grafana, ELK |
 | [Cloud Training Resources](https://github.com/G-devops-cp/cloud-training-resources) | Contains slides, labs, and exercises for students and interns. | Markdown, PowerPoint, Azure/AWS Labs |
 
+
+## 🗂️ Architecture Diagrams
+
+![Cloud Architectures](architecture-diagrams.png)
+
+
 ---
 
 ## 📬 Contact
