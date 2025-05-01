@@ -1,5 +1,4 @@
-# gabrielmekuleyi-portfolio
-My professional portfolio as a Cloud Solutions Architect &amp; DevOps Engineer
+
 # Gabriel Mekuleyi | Cloud Solutions Architect & DevOps Engineer
 
 Welcome to my GitHub portfolio! I am a Microsoft Certified Trainer, Cloud Solutions Architect, and DevOps Engineer with expertise in designing, deploying, and mentoring cloud-based solutions using Microsoft Azure, AWS, Docker, Kubernetes, and DevOps pipelines.
@@ -46,7 +45,7 @@ Welcome to my GitHub portfolio! I am a Microsoft Certified Trainer, Cloud Soluti
 
 ## 📬 Contact
 
-- **Email:** mekuleyigabriel@gmail.com  
+- **Email:** mygodsent002@gmail.com  
 - **LinkedIn:** [Gabriel Mekuleyi]((https://www.linkedin.com/in/gabriel-mekuleyi-8219911b2/))  
 - **GitHub:** [G-devOps-cpu](https://github.com/G-devops-cpu)
 
