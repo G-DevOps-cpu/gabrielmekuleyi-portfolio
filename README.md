@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I am a Microsoft Certified Trainer, Cloud Soluti
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | [DevOps CI/CD Pipeline](https://github.com/G-devops-cpu/devops-cicd-pipeline) | Automates Docker builds and deployment to Azure using GitHub Actions. | Docker, GitHub Actions, Azure VM |
-| [Terraform Azure Setup](https://github.com/G-devops-cp/azure-terraform-iac) | Provisions Azure infrastructure with Terraform modules. | Terraform, Azure |
+| [Terraform Azure Setup](https://github.com/G-DevOps-cpu/azure-terraform-iac.git) | Provisions Azure infrastructure with Terraform modules. | Terraform, Azure |
 | [Kubernetes Java-MySQL App](https://github.com/G-devops-cp/k8s-java-mysql) | Deploys a microservice with Kubernetes and Helm, with Ingress and TLS. | Kubernetes, Helm, MySQL, Spring Boot |
 | [Monitoring Stack](https://github.com/G-devops-cp/devops-monitoring-stack) | Centralized logging and monitoring setup. | Prometheus, Grafana, ELK |
 | [Cloud Training Resources](https://github.com/G-devops-cp/cloud-training-resources) | Contains slides, labs, and exercises for students and interns. | Markdown, PowerPoint, Azure/AWS Labs |
