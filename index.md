@@ -1,5 +1,5 @@
 
-# Gabriel Mekuleyi | Cloud Solutions Architect & DevOps Engineer
+
 
 Welcome to my GitHub portfolio! I am a Microsoft Certified Trainer, Cloud Solutions Architect, and DevOps Engineer with expertise in designing, deploying, and mentoring cloud-based solutions using Microsoft Azure, AWS, Docker, Kubernetes, and DevOps pipelines.
 
